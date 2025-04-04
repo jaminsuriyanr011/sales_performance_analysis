@@ -41,7 +41,7 @@ This database, `sales_performance_analysis`, is structured to facilitate the tra
 
 In summary, this database is designed to provide a robust and flexible framework for analyzing sales performance, enabling businesses to gain valuable insights and make informed decisions.
 
-STORE PROCEDURE
+STORED PROCEDURE
 
 A "stored procedure" is a precompiled set of SQL statements stored within a database. It's like a function or subroutine in a programming language, but specifically for database operations. Here's an overview of stored procedures:
 
